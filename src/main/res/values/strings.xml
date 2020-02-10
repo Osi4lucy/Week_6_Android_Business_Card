@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Company Business Card</string>
+    <string name="our_services">
+        <br>
+        1. Office and home cleaning\n</br>
+        <br>
+        2. Window polishing\n</br>
+        <br>
+        3. Facility managers\n</br>
+        <br>
+        4. Real estate services\n</br>
+    </string>
+    <string name="about_us">
+        <br> The GoodManServices is a new business concerned with\n</br>
+        <br> quality facility management services to homes,offices\n</br>
+        <br> other business in the Copenhagen area of Denmark\n</br>
+        <br> Through generous human capital investments, TGS will exceed our customer\'s expectations.\n</br>
+        <br> We will be servicing the wealthy single-income households and affluent two-income households.\n</br>
+        <br> Our targeted customers are willing to pay a premium for our service because of the \n</br>
+
+        <br>high level of professionalism and trustworthiness that we offer, not replicated by any of our competition\n</br>
+    </string>
+</resources>
